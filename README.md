@@ -45,8 +45,7 @@ The chatbot uses a CSV dataset containing:
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/yourusername/university-faq-chatbot.git
-cd university-faq-chatbot
+git clone https://github.com/soumojitsamabbar71360-ship-it/UniversityChatbot_Intel.git
 
 ```
 
